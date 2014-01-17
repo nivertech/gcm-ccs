@@ -5,7 +5,7 @@ SERVER = 'gcm.googleapis.com'
 PORT = 5235
 USERNAME = "1026645507924"
 PASSWORD = "AIzaSyDxf8TTgcl4KLHv-4HsEp8nUmnjENMTt6A"
-REGISTRATION_ID = "Registration Id of the target device"
+REGISTRATION_ID = "APA91bGCM4aPXjYHSLQ9tqpzKwSjBy1PoGRW4WjNsGlpYd7suWaRQUssjJ16ULcPkILGAH6yHpHVdg2CnJAgQBNS3XitQ2X_SzT0ER84TTDruBksx4dtLIEfnJX4iqxQxn4JrSSSNcnWtPaoXhuTMYkZmKkGumfaxA"
 
 unacked_messages_quota = 1000
 send_queue = []
